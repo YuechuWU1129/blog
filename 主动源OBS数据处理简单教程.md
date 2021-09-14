@@ -16,7 +16,7 @@
 * [炮点数据预处理](#炮点数据预处理)
 * [数据处理](#数据处理)
 * [画图](#画图)
-  * [Seismic Unix](#SeismicUnix)
+  * [Seismic Unix](#Seismic&nbsp;Unix)
   * [Matlab](#Matlab)
   * [SeisSee](#SeisSee)
 
@@ -156,7 +156,7 @@ sac2y_v2.1 sacfile.SAC ukooafile.txt sgyfile.sgy
 
 
 # 画图
-## SeismicUnix
+## Seismic&nbsp;Unix
 
 首先需要安装Seismic Unix，安装方法（王建提供）：
 
