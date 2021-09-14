@@ -156,7 +156,7 @@ sac2y_v2.1 sacfile.SAC ukooafile.txt sgyfile.sgy
 
 
 # 画图
-## Seismic Unix
+## SeismicUnix
 
 首先需要安装Seismic Unix，安装方法（王建提供）：
 
