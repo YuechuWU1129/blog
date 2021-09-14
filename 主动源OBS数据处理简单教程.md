@@ -16,7 +16,7 @@
 * [炮点数据预处理](#炮点数据预处理)
 * [数据处理](#数据处理)
 * [画图](#画图)
-  * [Seismic Unix](#Seismic&nbsp;Unix)
+  * [Seismic&nbsp;Unix](#Seismic&nbsp;Unix)
   * [Matlab](#Matlab)
   * [SeisSee](#SeisSee)
 
